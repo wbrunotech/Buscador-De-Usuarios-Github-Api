@@ -10,9 +10,9 @@ Mostrar informações básicas do usuário, como nome, foto de perfil, número d
 Exibir os repositórios mais recentes do usuário, com seus nomes e descrições.
 
 ## Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript
+ HTML5 
+ CSS3
+ JavaScript
 
 ## Licença
-Este projeto está sob a Licença MIT. Sinta-se à vontade para utilizá-lo conforme necessário.
+Sinta-se à vontade para utilizá-lo conforme necessário.
