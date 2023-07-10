@@ -1,7 +1,7 @@
 # Buscador-De-Usuários-Github-Api
 
 ## Acesse:
-https://weybruno.github.io/Buscador-De-Usuarios-Github-Api/
+https://wbrunotech.github.io/Buscador-De-Usuarios-Github-Api/
 
 ## Descrição
 Projeto de estudo proposto pelo curso Dev Quest, este projeto consiste em um buscador de usuários do GitHub que utiliza HTML5, CSS3 e JavaScript para trazer a tela de perfil do usuário buscado.
